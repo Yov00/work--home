@@ -1,0 +1,25 @@
+
+#CompanyCreateButton{
+    padding:10px 0;
+    color:white;
+    font-weight: 600;
+    border-radius:5px;
+}
+#CompanyCreateButton:hover{
+    background-color:#E64273;
+}
+#CompanyCreationButton:active{
+    background-color: white;
+}
+.nav-link{
+    color:white;
+}
+.companyIndex{
+    border:1px solid gray;
+    border-radius:5px;
+    padding:50px;
+}
+.flexing{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+}
